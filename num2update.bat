@@ -76,5 +76,5 @@ timeout /t 5 /nobreak
 cls
 echo Goodbye!
 timeout /t 1 /nobreak
-del numbers2.num
+del numbers2.bat
 exit
