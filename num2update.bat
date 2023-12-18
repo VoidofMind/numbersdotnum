@@ -16,57 +16,57 @@ timeout /t 2 /nobreak
 cd %Userprofile%\Downloads
 cls
 echo %random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo%random%%random%%random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%%random%%random%
-timeout /t 0.5 /nobreak
+timeout /t 1 /nobreak
 echo %random%%random%%random%
-timeout /t 2.5 /nobreak
+timeout /t 3 /nobreak
 cls
 echo %random% > YourNumber.txt
 echo Your Special number is in the text file labeled "YourNumber"!
