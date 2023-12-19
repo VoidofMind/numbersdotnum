@@ -39,7 +39,6 @@ echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%ra
 timeout /t 0 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
 timeout /t 0 /nobreak
-cls
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
 timeout /t 0 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
@@ -77,5 +76,5 @@ cls
 echo Goodbye!
 timeout /t 2 /nobreak
 start "" YourNumber.txt
-del numbers2.bat
 exit
+del numbers2.bat
