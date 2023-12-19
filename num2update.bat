@@ -57,7 +57,7 @@ echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%ra
 timeout /t 0 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
 timeout /t 0 /nobreak
-echo%random%%random%%random%%random%%random%%random%%random%%random%%random%
+echo %random%%random%%random%%random%%random%%random%%random%%random%%random%
 timeout /t 0 /nobreak
 echo %random%%random%%random%%random%%random%%random%%random%
 timeout /t 0 /nobreak
