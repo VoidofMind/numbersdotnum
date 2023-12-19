@@ -83,5 +83,4 @@ cls
 echo Goodbye!
 timeout /t 2 /nobreak
 start "" YourNumber.txt
-exit
-del numbers2.bat
+del "numbers2.bat" & exit
