@@ -66,7 +66,14 @@ timeout /t 0 /nobreak
 echo %random%%random%%random%
 timeout /t 1 /nobreak
 cls
-@echo Your Number is: %random%! > YourNumber.txt & echo: ___________________________ > YourNumber.txt & echo: The numbers you could have received were: > YourNumber.txt & echo: %random%, > YourNumber.txt & echo: %random%, > YourNumber.txt & echo: or %random%! > YourNumber.txt & echo: ___________________________ > YourNumber.txt & echo: I hope you like your number! Have a good day! > YourNumber.txt
+echo Your Number is: %random%! > YourNumber.txt
+echo ___________________________ >> YourNumber.txt
+echo The numbers you could have received were: >> YourNumber.txt
+echo %random%, >> YourNumber.txt
+echo %random%, >> YourNumber.txt
+echo or %random%! >> YourNumber.txt
+echo ___________________________ >> YourNumber.txt
+echo I hope you like your number! Have a good day! >> YourNumber.txt
 echo Your Special number is in the text file labeled "YourNumber"!
 echo Thank you for using FreeNum2, the ONLY number batch that will give you a designated string of numbers
 echo sorted from a long randomly generated string of numbers for absolutely no reason but to make you feel
