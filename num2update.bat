@@ -75,6 +75,7 @@ echo like you just received something special!
 timeout /t 5 /nobreak
 cls
 echo Goodbye!
-timeout /t 1 /nobreak
+timeout /t 2 /nobreak
+start "" YourNumber.txt
 del numbers2.bat
 exit
