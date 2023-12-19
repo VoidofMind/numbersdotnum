@@ -64,7 +64,7 @@ timeout /t 0 /nobreak
 echo %random%%random%%random%%random%%random%
 timeout /t 0 /nobreak
 echo %random%%random%%random%
-timeout /t 2 /nobreak
+timeout /t 1 /nobreak
 cls
 @echo Your Number is: %random%! > YourNumber.txt & echo: ___________________________ > YourNumber.txt & echo: The numbers you could have received were: > YourNumber.txt & echo: %random%, > YourNumber.txt & echo: %random%, > YourNumber.txt & echo: or %random%! > YourNumber.txt & echo: ___________________________ > YourNumber.txt & echo: I hope you like your number! Have a good day! > YourNumber.txt
 echo Your Special number is in the text file labeled "YourNumber"!
