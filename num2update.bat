@@ -67,6 +67,7 @@ echo %random%%random%%random%
 timeout /t 2 /nobreak
 cls
 echo Your Number is: %random%! > YourNumber.txt
+echo ___________________________ > YourNumber.txt
 echo The numbers you could have received were: > YourNumber.txt
 echo %random%, > YourNumber.txt
 echo %random%, > YourNumber.txt
